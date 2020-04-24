@@ -39,14 +39,14 @@ Edit this document to include your answers after each question. Make sure to lea
 Follow these steps to set up and work on your project:
 Make sure you clone the branch that the TK links to: the vnext branch, NOT master!
 
-- [ ] Create a forked copy of this project.
-- [ ] Add TL as collaborator on Github.
-- [ ] Clone your OWN version of Repo (Not Lambda's by mistake!).
-- [ ] Create a new Branch on the clone: git checkout -b `<firstName-lastName>`.
-- [ ] Create a pull request before you start working on the project requirements.  You will continuously push your updates throughout the project.
-- [ ] You are now ready to build this project with your preferred IDE
-- [ ] Implement the project on your Branch, committing changes regularly.
-- [ ] Push commits: git push origin `<firstName-lastName>`.
+- [ x ] Create a forked copy of this project.
+- [ x ] Add TL as collaborator on Github.
+- [ x ] Clone your OWN version of Repo (Not Lambda's by mistake!).
+- [ x ] Create a new Branch on the clone: git checkout -b `<firstName-lastName>`.
+- [ x ] Create a pull request before you start working on the project requirements.  You will continuously push your updates throughout the project.
+- [ x ] You are now ready to build this project with your preferred IDE
+- [ x ] Implement the project on your Branch, committing changes regularly.
+- [ x ] Push commits: git push origin `<firstName-lastName>`.
 
 
 
@@ -59,7 +59,7 @@ Your finished project must include all of the following requirements:
 #### Task A: Objects and Arrays
 
 Test your knowledge of advanced array methods and callbacks.
-* [ ] Use the [arrays-callbacks.js](challenges/arrays-callbacks.js) link to get started.  Read the instructions carefully!
+* [ x ] Use the [arrays-callbacks.js](challenges/arrays-callbacks.js) link to get started.  Read the instructions carefully!
 
 #### Task B: Closure
 
@@ -69,7 +69,7 @@ This challenge takes a look at closures as well as scope.
 #### Task C: Prototypes
 
 Create constructors, bind methods, and create cuboids in this prototypes challenge.
-* [ ] Use the [prototypes.js](challenges/prototypes.js) link to get started. Read the instructions carefully!
+* [  ] Use the [prototypes.js](challenges/prototypes.js) link to get started. Read the instructions carefully!
 
 #### Task D: Classes
 
